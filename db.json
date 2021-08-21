@@ -1,9 +1,8 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    {"id": 1, "title": "hello"},
+    {"id": 2, "title": "jose"},
+    {"id": 3, "title": "faca"}
   ],
   "profile": {
     "name": "typicode"
